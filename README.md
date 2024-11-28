@@ -1,8 +1,12 @@
 # Pizza Fiesta Website
 This is a fullstack food ordering app built with Next.js 14 (React.js, MongoDB, Tailwind CSS).
-<br>
+## Getting Started
 
-![demo](public/admin-dashboard.png)
+View a demo of this app [here](https://pizza-fiesta.vercel.app/).<br><br>
+To access admin features, you can use the following account to log in:<br>
+``Email: admin@test.com
+Password: 12345678``
+
 
 ## Features
 - User authentication with NextAuth (Email & Google)
@@ -15,9 +19,3 @@ This is a fullstack food ordering app built with Next.js 14 (React.js, MongoDB, 
 - Database handling with MongoDB
 - UI design with Tailwind CSS & NextUI
 
-## Getting Started
-
-View a demo of this app [here](https://pizza-fiesta.vercel.app/).<br><br>
-To access admin features, you can use the following account to log in:<br>
-``Email: admin@test.com
-Password: 12345678``
