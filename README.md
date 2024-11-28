@@ -2,22 +2,6 @@
 This is a fullstack food ordering app built with Next.js 14 (React.js, MongoDB, Tailwind CSS).
 <br>
 
-<p align="center">
-Home page
-</p>
-
-![demo](public/home.png)
-
-<p align="center">
-Menu page
-</p>
-
-![demo](public/menu.png)
-
-<p align="center">
-Admin Dashboard
-</p>
-
 ![demo](public/admin-dashboard.png)
 
 ## Features
